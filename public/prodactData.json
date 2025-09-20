@@ -1,0 +1,154 @@
+[
+  {
+    "sku": "140-10440-B",
+    "name": "Brandix Spark Plug Kit ASR-400",
+    "image": "/plug.jpg",
+    "rating": 4,
+    "reviews": 3,
+    "price": 19.00,
+    "tag": ["sale","new","hot"],
+    "category": "Power Tools",
+    "offer":true
+  },
+  {
+    "sku": "573-23743-C",
+    "name": "Brandix Brake Kit BDX-750Z370-S",
+    "image": "/brack-kit.jpg",
+    "rating": 4,
+    "reviews": 22,
+    "price": 224.00,
+    "tag": [],
+    "category": "Hand Tools"
+  },
+  {
+    "sku": "009-50078-Z",
+    "name": "Left Headlight Of Brandix Z54",
+    "image": "/head-light.jpg",
+    "rating": 4,
+    "reviews": 14,
+    "price": 349.00,
+    "originalPrice": 415.00,
+    "tag": ["sale"],
+    "category": "Car Parts"
+  },
+  {
+    "sku": "A43-44328-B",
+    "name": "Glossy Gray 19' Aluminium Wheel AR-19",
+    "image": "/wheel.jpg",
+    "rating": 4,
+    "reviews": 26,
+    "price": 589.00,
+    "tag": ["hot"],
+    "category": "Car Parts"
+  },
+  {
+    "sku": "729-51203-B",
+    "name": "Twin Exhaust Pipe From Brandix Z54",
+    "image": "/exhaust.jpg",
+    "rating": 4,
+    "reviews": 9,
+    "price": 749.00,
+    "tag": [],
+    "category": "Car Parts",
+    "offer":true
+  },
+  {
+    "sku": "573-49386-C",
+    "name": "Motor Oil Level 5",
+    "image": "/oil.jpg",
+    "rating": 5,
+    "reviews": 2,
+    "price": 23.00,
+    "tag": [],
+    "category": "Car Parts",
+    "offer":true
+  },
+  {
+    "sku": "753-38573-B",
+    "name": "Brandix Engine Block Z4",
+    "image": "/engine-block.jpg",
+    "rating": 0,
+    "reviews": 0,
+    "price": 452.00,
+    "originalPrice": 573.00,
+    "tag": [],
+    "category": "Car Parts",
+    "offer": true
+  },
+  {
+    "sku": "472-67382-Z",
+    "name": "Brandix Clutch Discs Z175",
+    "image": "/clutch.jpg",
+    "rating": 3,
+    "reviews": 7,
+    "price": 345.00,
+    "tag": [],
+    "category": "Car Parts",
+    "offer": true
+  },
+  {
+    "sku": "855-78336-G",
+    "name": "Brandix Manual Five Speed Gearbox",
+    "image": "/gearbox.jpg",
+    "rating": 4,
+    "reviews": 6,
+    "price": 879.00,
+    "tag": [],
+    "category": "Car Parts",
+    "offer": true
+  },
+  {
+    "sku": "473-75662-R",
+    "name": "Set of Car Floor Mats Brandix Z4",
+    "image": "/floor-mats.jpg",
+    "rating": 4,
+    "reviews": 16,
+    "price": 78.00,
+    "originalPrice": 94.00,
+    "tag": [],
+    "category": "Car Parts"
+  },
+  {
+    "sku": "521-57812-H",
+    "name": "Taillights Brandix Z54",
+    "image": "/taillights.jpg",
+    "rating": 4,
+    "reviews": 8,
+    "price": 60.00,
+    "tag": [],
+    "category": "Car Parts"
+  },
+  {
+    "sku": "994-34346-B",
+    "name": "Wiper Blades Brandix WL2",
+    "image": "/wiper.jpg",
+    "rating": 5,
+    "reviews": 41,
+    "price": 12.00,
+    "tag": [],
+    "category": "Car Parts"
+  },
+  {
+    "sku": "985-00884-S",
+    "name": "Fantastic 12-Stroke Engine With A Power of 1991 hp",
+    "image": "/engine.avif",
+    "rating": 5,
+    "reviews": 17,
+    "price": 2579.00,
+    "tag": [],
+    "category": "Car Parts",
+    "offer": true
+  },
+  {
+  "sku": "009-50078-Z",
+  "name": "Left Headlight Of Brandix Z54",
+  "image": "/head-light.jpg",
+  "rating": 4,
+  "reviews": 14,
+  "price": 349.00,
+  "originalPrice": 415.00,
+  "tag": ["sale"],
+  "category": "Car Parts",
+  "offer": true
+}
+]
